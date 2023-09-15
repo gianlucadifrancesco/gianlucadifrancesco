@@ -16,8 +16,8 @@ I'm Gianluca and I love to develop software that's useful to people.
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-<!--
+
 <p align="center">
   <img alt="Most Used Languagess" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucadifrancesco&layout=donut&bg_color=80,fff,fefbff,fdf4ff,fdf4ff,cadcff,f5f9ff&cache_seconds=86400" />
 </p>
--->
+
